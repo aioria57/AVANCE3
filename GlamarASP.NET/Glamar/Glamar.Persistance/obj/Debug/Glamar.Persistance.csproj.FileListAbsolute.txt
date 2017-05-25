@@ -1,0 +1,45 @@
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll.config
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.pdb
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.pdb
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.pdb
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.Migrations.IntitialModel.resources
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll.config
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.Migrations.IntitialModel.resources
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.Migrations.IntitialModel.resources
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll.config
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\Glamar.Persistance.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Persistance\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csprojResolveAssemblyReference.cache
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.Migrations.IntitialModel.resources
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Persistance\obj\Debug\Glamar.Persistance.csproj.GenerateResource.Cache

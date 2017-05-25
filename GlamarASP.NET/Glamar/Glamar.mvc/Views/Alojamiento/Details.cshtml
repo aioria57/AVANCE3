@@ -1,0 +1,47 @@
+﻿@model Glamar.Entities.Alojamiento
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Detalle</h2>
+
+<div>
+    <h4>Alojamiento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.idReserva)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idReserva)
+        </dd>
+
+    </dl>
+<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nomHospedaje)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomHospedaje)
+        </dd>
+
+    </dl>
+<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.nroHab)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nroHab)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idAlojamiento }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

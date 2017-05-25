@@ -1,0 +1,17 @@
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe.config
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\bin\Debug\Glamar.Console.pdb
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\obj\Debug\Glamar.Console.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\obj\Debug\Glamar.Console.exe
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Console\obj\Debug\Glamar.Console.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe.config
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\bin\Debug\Glamar.Console.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\obj\Debug\Glamar.Console.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\obj\Debug\Glamar.Console.exe
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Console\obj\Debug\Glamar.Console.pdb
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe.config
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Console\bin\Debug\Glamar.Console.exe
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Console\bin\Debug\Glamar.Console.pdb
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Console\obj\Debug\Glamar.Console.exe
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Console\obj\Debug\Glamar.Console.pdb

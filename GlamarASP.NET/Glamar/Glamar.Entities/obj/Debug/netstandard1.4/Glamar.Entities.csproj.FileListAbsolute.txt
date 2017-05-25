@@ -1,0 +1,27 @@
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.deps.json
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.AssemblyInfo.cs
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Jaime Alonzo\Documents\Visual Studio 2017\Projects\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.deps.json
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.AssemblyInfo.cs
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Desktop\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.deps.json
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.AssemblyInfo.cs
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\Carlos Roberto\Documents\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.deps.json
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\bin\Debug\netstandard1.4\Glamar.Entities.pdb
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.AssemblyInfo.cs
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.dll
+C:\Users\JairoBrian\Downloads\GlamarASP.NET\Glamar\Glamar.Entities\obj\Debug\netstandard1.4\Glamar.Entities.pdb
